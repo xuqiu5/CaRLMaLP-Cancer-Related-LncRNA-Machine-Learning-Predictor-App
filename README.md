@@ -35,3 +35,4 @@ On the other panel, we provided a PCA plot for the interpretation of the result 
 
 2. Pedregosa et al. Scikit-learn: Machine Learning in Python. JMLR 12, pp. 2825-2830, 2011.
 
+3. Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Xie Y, Allen J, McPherson J, Dipert A, Borges B (2022). shiny: Web Application Framework for R. R package version 1.7.4, https://shiny.rstudio.com/.
