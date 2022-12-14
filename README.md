@@ -26,7 +26,7 @@ Upload your file for analysis.
 #### Machine Learning Panel
 After uploading features for each Gene_ID, users can choose a machine learning algorithm from the drop-down menu. Then click run to start the machine learning. Since the user input may have less number of features, this app provides the confusion matrix and AUC ROC curve as indicators for the robustness.
 ##### Prediction Result
-The prediction result contains a table: the first column is the Gene_ID provided by the user, the second column is the prediction result. One (1) means positive cancer-related, and -1 means negative cancer-unrelated.
+The prediction result contains a table: the first column is the Gene_ID provided by the user, the second column is the prediction result. 1 means positive cancer-related, and -1 means negative cancer-unrelated.
 ##### Confusion Matrix
 The confusion matrix plot counts the number of true positives, true negatives, false positives, and false negatives for the trained model. The higher the number of true positives and true negatives, the more robust the model is.
 ##### AUC ROC Curve
