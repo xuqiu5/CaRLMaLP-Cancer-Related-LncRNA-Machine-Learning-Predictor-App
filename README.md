@@ -17,13 +17,7 @@ Input should be a csv file with Gene_ID as the first column (can be any form of 
 For more information on how to generate integrated features, please refer to supplementary material of [CRlncRC2](https://www.frontiersin.org/articles/10.3389/fgene.2019.00735/full#supplementary-material)
 
 ### Run App 
-Download the [files] and go to the directory. 
-       
-run command: 'shiny run --reload app.py'
-
-open browser and go to: 'http://127.0.0.1:8000'
-
-Upload your file for analysis. 
+The website is at: https://xp5n20-joseph-tsenum.shinyapps.io/cancer_related_lncrna_ml_predictor_carlmalp_shiny/ 
        
 ### Result Interpretation
 #### Machine Learning Panel
