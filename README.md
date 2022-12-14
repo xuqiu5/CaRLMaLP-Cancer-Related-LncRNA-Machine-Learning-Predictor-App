@@ -1,8 +1,8 @@
-# Applied and Human Computational Genomics ​
+## Applied and Human Computational Genomics ​
 
-# Georgia Institute of Technology​
+## Georgia Institute of Technology​
 
-# Team 8: Joseph Luper Tsenum, Xu Qiu, Zun Wang​
+## Team 8: Joseph Luper Tsenum, Xu Qiu, Zun Wang​
 
 # CaRLMaLP R-Shiny App
 
