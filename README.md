@@ -1,4 +1,4 @@
-## Applied and Human Computational Genomics ​
+## Applied Human Computational Genomics ​
 
 ## Georgia Institute of Technology​
 
