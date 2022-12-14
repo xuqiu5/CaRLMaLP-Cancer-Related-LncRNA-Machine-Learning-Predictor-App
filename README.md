@@ -1,3 +1,9 @@
+# Applied and Human Computational Genomics ​
+
+# Georgia Institute of Technology​
+
+# Team 8: Joseph Luper Tsenum, Xu Qiu, Zun Wang​
+
 # CaRLMaLP R-Shiny App
 
 Long Noncoding RNAs, or lncRNAs are RNAs not translated into proteins. Recent studies have shown that lncRNAs play a crucial role in cancer through their regulations of biological pathways. Cancer-Related LncRNA Machine Learning Predictor App (CaRLMaLP R-shiny App) is a Web-based user interface for predicting cancer-related lncRNAs by integrating manifold features (genomic, expression, epigenetic and network features) with five machine-learning techniques (Random Forest (RF), Naïve bayes (NB), Support Vector Machine (SVM), Logistic Regression (LR) and K-Nearest Neighbors (KNN). With this App, predicting novel cancer-related lncRNA with high accuracy and efficiency is possible. This App was developed using R Shiny and based on the machine learning work from [CRlncRC](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0436-9). Also, our full training dataset is originated from CRlncRC, containing 11963 genes and 85 features.
