@@ -11,7 +11,7 @@ Long Noncoding RNAs, or lncRNAs are RNAs not translated into proteins. Recent st
 
 ## User manual 
 ### Create Input
-Input should be a csv file with Gene_ID as the first column(can be any form of Gene ID), the rest of the file should contain some of the columns(does not have to be all) in the features file 'feature_set.csv'. Our features file contains 4 types of integrated feature: genomic features, epigenetic features, expression features, network features.
+Input should be a csv file with Gene_ID as the first column (can be any form of Gene ID), the rest of the file should contain some of the columns (does not have to be all) in the features file 'feature_set.csv'. Our features file contains 4 types of integrated feature: genomic features, epigenetic features, expression features, network features.
 
 ### Run App 
 Download the [files] and go to the directory. 
