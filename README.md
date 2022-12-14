@@ -10,15 +10,15 @@ Long Noncoding RNAs, or lncRNAs are RNAs not translated into proteins. Recent st
                 
 
 ## User manual 
+
+### Run App 
+The website is at: https://xp5n20-joseph-tsenum.shinyapps.io/cancer_related_lncrna_ml_predictor_carlmalp_shiny/ \
+Please upload the user feature in the Input panel, choose the machine learning algorithm to run the app.
+
 ### Create Input
 Input should be a csv file with Gene_ID as the first column (can be any form of Gene ID), the rest of the file should contain some of the columns (does not have to be all) in the features file 'feature_set.csv'. Our features file contains 4 types of integrated feature: genomic features, epigenetic features, expression features, network features.
 
-
 For more information on how to generate integrated features, please refer to supplementary material of [CRlncRC2](https://www.frontiersin.org/articles/10.3389/fgene.2019.00735/full#supplementary-material)
-
-### Run App 
-The website is at: https://xp5n20-joseph-tsenum.shinyapps.io/cancer_related_lncrna_ml_predictor_carlmalp_shiny/ 
-       
 ### Result Interpretation
 #### Machine Learning Panel
 After uploading features for each Gene_ID, users can choose a machine learning algorithm from the drop-down menu. Then click run to start the machine learning. Since the user input may have less number of features, this app provides the confusion matrix and AUC ROC curve as indicators for the robustness.
