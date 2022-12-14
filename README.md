@@ -39,6 +39,18 @@ Users can view the contribution of each feature they provide. We provided featur
 On the other panel, we provided a PCA plot for the interpretation of the result as well. Also, by uploading the user's features and choosing the machine learning algorithm, and then click run, the PCA will start running. The user can see if PCA has a similar cluster pattern with the prediction result.
 ![modified2](https://github.gatech.edu/storage/user/56953/files/658320b6-a8d7-4d20-a79a-6cc6b5bc198d)
 
+### Contact Us
+
+1. Joseph Luper Tsenum: jtsenum3@gatech.edu
+2. Xu Qiu: xqiu64@gatech.edu
+3. Zun Wang: zwang3311@gatech.edu
+
+Engineered Biosystems Building (EBB)
+
+Georgia Institute of Technology
+
+950 Atlantic Drive Atlanta, GA 30332
+
 ### References
 
 1. Zhang, X., Wang, J., Li, J. et al. CRlncRC: a machine learning-based method for cancer-related long noncoding RNA identification using integrated features. BMC Med Genomics 11 (Suppl 6), 120 (2018). https://doi.org/10.1186/s12920-018-0436-9
