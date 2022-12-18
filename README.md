@@ -13,7 +13,7 @@ Long Noncoding RNAs, or lncRNAs are RNAs not translated into proteins. Recent st
 ## User manual 
 
 ### Run App 
-The website to our CaRLMaLP R-Shiny App is at https://zunwang0513.shinyapps.io/cancer-related_lncrna_ml_predictor_app_carlmalp_shiny/ and https://xp5n20-joseph-tsenum.shinyapps.io/cancer_related_lncrna_ml_predictor_carlmalp_shiny1/  
+The website to our CaRLMaLP R-Shiny App is at https://zunwang0513.shinyapps.io/cancer-related_lncrna_ml_predictor_app_carlmalp_shiny/  
 Please, upload the user feature file in the Input panel, choose the machine learning algorithm to run the app.
 
 ### Create Input
