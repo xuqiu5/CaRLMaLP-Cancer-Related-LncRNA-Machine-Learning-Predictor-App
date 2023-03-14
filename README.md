@@ -43,7 +43,7 @@ On the other panel, we provided a PCA plot for the interpretation of the result 
 
 1. Joseph Luper Tsenum: jtsenum3@gatech.edu
 2. Xu Qiu: xqiu64@gatech.edu
-3. Zun Wang: zwang3311@gatech.edu
+3. Zun Wang: zunwang@gatech.edu
 
 Engineered Biosystems Building (EBB)
 
